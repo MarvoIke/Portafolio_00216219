@@ -1,0 +1,27 @@
+1)
+initialize (s)
+
+    if((empty(s)))
+        
+        ¨La pila esta vacia¨
+
+    else 
+	e1 = pop(s)
+
+		if((empty(s)))
+		    e2 = pop(s)
+		    return e2
+
+
+
+3)
+if((empty(s)))
+        
+        ¨La pila esta vacia¨
+
+    else
+	while(!empty(s))
+        e1 = pop(s)
+	return e1
+
+
